@@ -1,0 +1,1 @@
+﻿update restorant2 set num_sales=0 ,profit=0
